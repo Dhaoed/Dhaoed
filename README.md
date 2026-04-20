@@ -2,14 +2,17 @@
 
 <h1 align="center">Hello, <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Muhammad Dhaoed Arrazaq</h1>
 
-## About Me
-- q
-
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Dhaoed">
     <img src="https://komarev.com/ghpvc/?username=Dhaoed&label=I%20see%20you&color=FBF6F6&style=flat-square" alt="Dhaoed's profile views" />
   </a>
 </p>
+
+## About Me
+- 🎓 Hold a degree in informatics engineering.
+- 🧠 Deeply interested in computer vision. Especially in deep learning applications such as object detection, face recognition, and complex image/video classification utilizing advanced methodologies like transfer learning and AI.
+- ⚙️ Ambitious but lazy, actively trying new things in order to understand more technical infrastructure, and I start by exploring DevOps methodologies and modern deployment pipelines in my free time.
+- 💡 Not a genius nor even talented, I just have a passion for technological advancement. I am eager to continuously learn, adapt to emerging technologies, and make sure to always do my best, real-world contribution to the tech industry.
 
 ## GitHub Stats
 <p align="center">
@@ -47,4 +50,4 @@
 </div>
 
 ## 💬Random Quotes
-> So, the developer created a program based in their own mind; in the image of their mind, they programmed it. With coffee and a deadline, they finished it.
+### *"So, the developer created a program based on their own mind, in the image of their mind, they programmed it. With coffee and a deadline, they finished it."*
